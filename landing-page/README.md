@@ -1,13 +1,22 @@
-# Landing Page Project
+# Landing page project
 
-## Table of Contents
+## 1. Program Languages
+HTML, CSS and Javascript.
 
-* [Instructions](#instructions)
+## 2. File Structure and Purposes
+index.html - landing page HTML structure
+README.md - documentation
 
-## Instructions
+css
+style.css - style: main styling, main grid, landing top call-to-action section, quote sections
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+js
+app.js - interaction Javascript codes
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## 3. Javascript - Interactive Functions
+Fixed Navigation Background Color - change the navigation background color before and after reaching the top of the device screen
+Dynamic Navigation List - auto navigation link input from the extraction of quote category dataset
+Active Navigation Link & Quote Section - create the appearance of active menu link and section
+Responsive Menu Button - click the button to show or hide the mobile dropdown menu
+Return to Top Button (return) - click the button to return to the top of the device screen
+Return to Top Button (show/hide) - the button is shown/hidden based on scrolling position
